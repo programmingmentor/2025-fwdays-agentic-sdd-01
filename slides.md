@@ -744,10 +744,6 @@ Source https://prompt.16x.engineer/blog/chatgpt-context-window-token-limit
 
 # Дякую!
 
-<div class="flex justify-center w-full h-30 items-center">
-  <img src="/slides-qr.png" class="w-50 h-50"/>
-</div>
-
 <div class="w-full flex justify-center mt-20">
-  <a href="https://programmingmentor.github.io/2025-slidev-coding-agents/">https://programmingmentor.github.io/2025-slidev-coding-agents/</a>
+  <a href="https://programmingmentor.github.io/2025-fwdays-agentic-sdd-01/">https://programmingmentor.github.io/2025-fwdays-agentic-sdd-01/</a>
 </div>
